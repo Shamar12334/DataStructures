@@ -1,4 +1,3 @@
-++package Hash;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -67,6 +66,6 @@ public class ChainingHash <T>
             hashVal+= theLists.length;
         return hashVal;
     }
-    private static int nextPrime(int n){/*see code online*/}
-    private static boolean isPrime(int n){/*see code online*/}
+//    private static int nextPrime(int n){/*see code online*/}
+//    private static boolean isPrime(int n){/*see code online*/}
 }
